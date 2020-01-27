@@ -14,7 +14,7 @@
     <com.google.android.youtube.player.YouTubePlayerView
         android:id="@+id/player"
         android:layout_width="match_parent"
-        android:layout_height="400dp" />
+        android:layout_height="350dp" />
 
     <TextView
         android:id="@+id/tvTitle"
